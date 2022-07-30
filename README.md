@@ -1,6 +1,6 @@
 # Covid-19_X_Ray_Image_Classification_end_to_end
 
-![alt text]
+![alt text](https://github.com/Uvais5/Covid-19_X_Ray_Image_Classification_end_to_end/blob/master/xray.png)
 
 # Here is link of this app 
 
