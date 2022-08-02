@@ -11,7 +11,7 @@ import base64
 st.title("Covid-19 cheast X_Ray Classification 🤢")
 
 #streamlit uploader function
-uploaded_files = st.file_uploader(label="Choose a X_Ray", type=["png","jpg"])
+uploaded_files = st.file_uploader(label="Choose a X_Ray", type=["png","jpg","jpeg"])
 predict = "❌Plase Enter the X_Ray image first❌❌❌"
 #Load the model i save  and images to classify 
 model = load_model("CNN_model1.h5")
