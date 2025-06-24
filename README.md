@@ -68,6 +68,7 @@ cd Covid-19_X_Ray_Image_Classification_end_to_end
   pip install -r requirements.txt
   pip install tensorflow keras streamlit opencv-python numpy
 ```
+### Usage
 ```bash
    streamlit run app.py
 ```
