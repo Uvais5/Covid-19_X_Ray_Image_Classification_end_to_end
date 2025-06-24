@@ -36,7 +36,7 @@ For a detailed explanation of the project, CNN architecture, training process, a
     <img src="xray.png" alt="Watch Anime Recommendation System Demo" width="640">
   </a>
   <br>
-  <strong><a href="http://www.youtube.com/watch?v=XKYLPc-wEyc" target="_blank">▶️ Watch: Build a Content-Based Anime Recommender System</a></strong>
+  <strong><a href="http://www.youtube.com/watch?v=XKYLPc-wEyc" target="_blank">▶️ Watch: Build a Covide-19 Xray-classification System</a></strong>
   <p>Video by Data Science Solutions</p>
 </div>
 
