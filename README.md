@@ -64,8 +64,11 @@ git clone https://github.com/Uvais5/Covid-19_X_Ray_Image_Classification_end_to_e
 cd Covid-19_X_Ray_Image_Classification_end_to_end
 ```
 
-### Install dependencies
+### 2. Install dependencies
 ``` bash
   pip install -r requirements.txt
   pip install tensorflow keras streamlit opencv-python numpy
+```
+```bash
+   streamlit run app.py
 ```
