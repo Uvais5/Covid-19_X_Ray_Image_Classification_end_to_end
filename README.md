@@ -1,7 +1,10 @@
 # 🦠 COVID-19 X-Ray Image Classification (End-to-End)
 
-![Cover Image]("https://github.com/Uvais5/Covid-19_X_Ray_Image_Classification_end_to_end/blob/master/xray.png")
 
+<div align="center">
+  <img src="xray.png" alt="Anime Recommendation System" width="700">
+  <p><em>A glimpse of the web application's user interface.</em></p>
+</div>
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
