@@ -53,3 +53,10 @@ For a detailed explanation of the project, CNN architecture, training process, a
 ```bash
 git clone https://github.com/Uvais5/Covid-19_X_Ray_Image_Classification_end_to_end.git
 cd Covid-19_X_Ray_Image_Classification_end_to_end
+```
+
+### Install dependencies
+``` bash
+  pip install -r requirements.txt
+  pip install tensorflow keras streamlit opencv-python numpy
+```
