@@ -30,9 +30,18 @@ For a detailed explanation of the project, CNN architecture, training process, a
 
 ---
 
-## 📺 YouTube Video
+## 🎬 Project Demo
 
-🎬 [Watch the project explanation video](https://www.youtube.com/watch?v=1965Aa28cyQ)  
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=1965Aa28cyQ" target="_blank">
+    <img src="xray.png" alt="Watch Anime Recommendation System Demo" width="640">
+  </a>
+  <br>
+  <strong><a href="http://www.youtube.com/watch?v=XKYLPc-wEyc" target="_blank">▶️ Watch: Build a Content-Based Anime Recommender System</a></strong>
+  <p>Video by Data Science Solutions</p>
+</div>
+
+
 *Chest X-Ray Covid-19 Detection | Transfer Learning | Deep Learning | Kaggle | TensorFlow | Python*
 
 ---
