@@ -9,7 +9,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project provides an **end-to-end solution** for classifying **COVID-19** from chest X-ray images using a **Convolutional Neural Network (CNN)** model. It includes a trained deep learning model and a user-friendly **Streamlit web application** for easy deployment and real-time predictions.
 
