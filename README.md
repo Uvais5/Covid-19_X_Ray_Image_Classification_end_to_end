@@ -1,6 +1,6 @@
 # 🦠 COVID-19 X-Ray Image Classification (End-to-End)
 
-![Cover Image](A_cover_graphic_design_for_a_dataset_titled_"Top_A.png")
+![Cover Image]("https://github.com/Uvais5/Covid-19_X_Ray_Image_Classification_end_to_end/blob/master/xray.png")
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://streamlit.io/)
