@@ -1,10 +1,58 @@
-# Covid-19_X_Ray_Image_Classification_end_to_end
+COVID-19 X-Ray Image Classification (End-to-End)
+This project provides an end-to-end solution for classifying COVID-19 from chest X-ray images using a Convolutional Neural Network (CNN) model. The solution includes a trained model and a user-friendly web application built with Streamlit for easy deployment and interaction.
 
-![alt text](https://github.com/Uvais5/Covid-19_X_Ray_Image_Classification_end_to_end/blob/master/xray.png)
+🚀 Deployed Application
+You can try out the live application here:
+https://uvais5-covid-19-x-ray-image-classification-end-to-en-app-ma1soe.streamlitapp.com/
 
-# Here is link of this app 
+📖 Medium Article
+For a detailed explanation of the project, including the CNN architecture, training process, and deployment steps, please refer to the accompanying Medium article:
+COVID-19 Chest X-Ray Image Classification CNN End-to-End with Streamlit Deploy
 
-# https://uvais5-covid-19-x-ray-image-classification-end-to-en-app-ma1soe.streamlitapp.com/
+📺 YouTube Video
+Watch a related video explaining the process:
+Chest X-Ray Covid-19 Detection | Transfer Learning | Deep Learning | Kaggle | TensorFlow | Python
 
-# Medium :
-https://medium.com/@zaidsaifi523/covid-19-cheast-x-ray-image-classification-cnn-end-to-end-with-streamlit-deploy-ec115939bbc5
+✨ Features
+Image Classification: Classifies chest X-ray images into COVID-19 positive or negative.
+
+Deep Learning Model: Utilizes a Convolutional Neural Network (CNN) for accurate predictions.
+
+Streamlit Web App: Provides an intuitive web interface for uploading images and getting predictions.
+
+End-to-End Solution: Covers data preprocessing, model training, and deployment.
+
+🛠️ Installation
+To set up this project locally, follow these steps:
+
+Clone the repository:
+
+git clone https://github.com/Uvais5/Covid-19_X_Ray_Image_Classification_end_to_end.git
+cd Covid-19_X_Ray_Image_Classification_end_to_end
+
+Create a virtual environment (recommended):
+
+python -m venv venv
+source venv/bin/activate  # On Windows: `venv\Scripts\activate`
+
+Install the required dependencies:
+
+pip install -r requirements.txt # (Assuming you have a requirements.txt file)
+# If no requirements.txt, you might need to install these:
+# pip install tensorflow keras streamlit opencv-python numpy
+
+🚀 Usage
+Once the dependencies are installed, you can run the Streamlit application:
+
+streamlit run app.py # (Assuming your main Streamlit app file is named app.py)
+
+This command will open the web application in your default browser. You can then upload an X-ray image and get the classification result.
+
+🧠 Model Architecture
+The project employs a Convolutional Neural Network (CNN) designed for image classification tasks. The model is trained on a dataset of chest X-ray images to distinguish between COVID-19 and non-COVID-19 cases. More details on the specific architecture and training methodology can be found in the Medium article.
+
+🤝 Contributing
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+
+📄 License
+This project is open-source and available under the MIT License.
