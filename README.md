@@ -33,7 +33,7 @@ For a detailed explanation of the project, CNN architecture, training process, a
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=1965Aa28cyQ" target="_blank">
-    <img src="thumbnail.png" alt="Watch Anime Recommendation System Demo" width="640">
+    <img src="thumbnail.png" alt="Watch covid x-ray classification Demo" width="640">
   </a>
   <br>
   <strong><a href="http://www.youtube.com/watch?v=XKYLPc-wEyc" target="_blank">▶️ Watch: Build a Covide-19 Xray-classification System</a></strong>
